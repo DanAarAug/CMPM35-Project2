@@ -6,23 +6,9 @@ Cameron Henritzy
 
 Daniel Augenbaugh
 
-Our Sketch: https://observablehq.com/@danaaraug/sortable-bar-chart@286
+Our project: https://observablehq.com/@danaaraug/sortable-bar-chart@286
 
-Example we based our sketch on: https://observablehq.com/@d3/sortable-bar-chart
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Example we based our project on: https://observablehq.com/@d3/sortable-bar-chart
 
 Default Readme content:
 
