@@ -10,6 +10,8 @@ Where we built this project, also the best place to see our code in action: http
 
 Example we based our project on: https://observablehq.com/@d3/sortable-bar-chart
 
+Sketch.png in the main folder is our project planning sketch.
+
 ---
 
 Notes: The files PaxHeader, caloriesCounted.csv, fd6c17ec40fe27da@286.js, index.html, index.js, inspector.css, package.json, and runtime.js are all necessary to run the code properly in a webserver. This is due to how Observablehq formats projects.
