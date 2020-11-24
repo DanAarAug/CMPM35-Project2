@@ -16,6 +16,8 @@ The file "fd6c17ec40fe27da@286.js" is our primary javascript code where the D3 s
 
 The file "TeamMapProject2DemoVideo.mp4" is a quick video demonstration of the interactivity/animations of our code running on a webserver.
 
+---
+
 The following is the default Readme content from Observablehq when you download code from their website:
 
 View this notebook in your browser by running a web server in this folder. For
