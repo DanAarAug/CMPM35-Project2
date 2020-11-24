@@ -6,7 +6,7 @@ Cameron Henritzy
 
 Daniel Augenbaugh
 
-Our project (where we built this project, also the best place to view our code): https://observablehq.com/@danaaraug/sortable-bar-chart@286
+Where we built this project, also the best place to see our code in action: https://observablehq.com/@danaaraug/sortable-bar-chart@286
 
 Example we based our project on: https://observablehq.com/@d3/sortable-bar-chart
 
