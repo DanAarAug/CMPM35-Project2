@@ -1,10 +1,10 @@
 # Counting Calories for 9 Days - Sortable Bar Chart
 
-Annie Zhang
+Annie Zhang (anxzhang@ucsc.edu)
 
-Cameron Henritzy
+Cameron Henritzy (@ucsc.edu)
 
-Daniel Augenbaugh
+Daniel Augenbaugh (daughenb@ucsc.edu)
 
 Where we built this project, also the best place to see our code in action: https://observablehq.com/@danaaraug/sortable-bar-chart@286
 
