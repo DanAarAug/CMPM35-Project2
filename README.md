@@ -10,6 +10,8 @@ Where we built this project, also the best place to see our code in action: http
 
 Example we based our project on: https://observablehq.com/@d3/sortable-bar-chart
 
+---
+
 Notes: The files PaxHeader, caloriesCounted.csv, fd6c17ec40fe27da@286.js, index.html, index.js, inspector.css, package.json, and runtime.js are all necessary to run the code properly in a webserver. This is due to how Observablehq formats projects.
 
 The file "fd6c17ec40fe27da@286.js" is our primary javascript code where the D3 stuff lives.
