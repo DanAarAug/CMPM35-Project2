@@ -1,0 +1,14 @@
+{
+  "name": "@danaaraug/sortable-bar-chart",
+  "main": "fd6c17ec40fe27da@286.js",
+  "version": "286.0.0",
+  "homepage": "https://observablehq.com/@danaaraug/sortable-bar-chart",
+  "author": {
+    "name": "danaaraug",
+    "url": "https://observablehq.com/@danaaraug"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
