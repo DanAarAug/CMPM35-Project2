@@ -1,5 +1,11 @@
 # Counting Calories for 9 Days - Sortable Bar Chart
 
+Annie Zhang
+
+Cameron Henritzy
+
+Daniel Augenbagh
+
 https://observablehq.com/@danaaraug/sortable-bar-chart@286
 
 View this notebook in your browser by running a web server in this folder. For
