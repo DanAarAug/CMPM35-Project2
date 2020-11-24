@@ -2,7 +2,7 @@
 
 Annie Zhang (anxzhang@ucsc.edu)
 
-Cameron Henritzy (@ucsc.edu)
+Cameron Henritzy (chenritz@ucsc.edu)
 
 Daniel Augenbaugh (daughenb@ucsc.edu)
 
