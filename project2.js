@@ -1,7 +1,7 @@
 // https://observablehq.com/@danaaraug/sortable-bar-chart@276
 export default function define(runtime, observer) {
   const main = runtime.module();
-  const fileAttachments = new Map([["caloriesCounted.csv",new URL("./files/f79b1da461139c5a642a3224685c0fec51a86ae771a4e70e77cf3f11f3d3eea0b07638c4f2de883271e4a5129eeea3b06b590feeeadead4a197ff2b1879717a9",import.meta.url)]]);
+  const fileAttachments = new Map([["caloriesCounted.csv",new URL("./caloriesCounted.csv",import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   main.variable(observer()).define(["md"], function(md){return(
 md`# Counting Calories for 9 Days - Sortable Bar Chart
