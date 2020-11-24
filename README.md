@@ -6,11 +6,17 @@ Cameron Henritzy
 
 Daniel Augenbaugh
 
-Our project: https://observablehq.com/@danaaraug/sortable-bar-chart@286
+Our project (where we built this project, also the best place to view our code): https://observablehq.com/@danaaraug/sortable-bar-chart@286
 
 Example we based our project on: https://observablehq.com/@d3/sortable-bar-chart
 
-Default Readme content:
+Notes: The files PaxHeader, caloriesCounted.csv, fd6c17ec40fe27da@286.js, index.html, index.js, inspector.css, package.json, and runtime.js are all necessary to run the code properly in a webserver. This is due to how Observablehq formats projects.
+
+The file "fd6c17ec40fe27da@286.js" is our primary javascript code where the D3 stuff lives.
+
+The file "TeamMapProject2DemoVideo.mp4" is a quick video demonstration of the interactivity/animations of our code running on a webserver.
+
+The following is the default Readme content from Observablehq when you download code from their website:
 
 View this notebook in your browser by running a web server in this folder. For
 example:
