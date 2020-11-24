@@ -4,9 +4,27 @@ Annie Zhang
 
 Cameron Henritzy
 
-Daniel Augenbagh
+Daniel Augenbaugh
 
-https://observablehq.com/@danaaraug/sortable-bar-chart@286
+Our Sketch: https://observablehq.com/@danaaraug/sortable-bar-chart@286
+
+Example we based our sketch on: https://observablehq.com/@d3/sortable-bar-chart
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Default Readme content:
 
 View this notebook in your browser by running a web server in this folder. For
 example:
