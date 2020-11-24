@@ -10,7 +10,7 @@ Where we built this project, also the best place to see our code in action: http
 
 Example we based our project on: https://observablehq.com/@d3/sortable-bar-chart
 
-"Sketch.png" in the main folder is our project planning sketch.
+"Sketch.png" in the main folder is our project planning sketch for Part 1.
 
 ---
 
